@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="holomark_11" size="1.000000 0.737024" />
+    <ImageTarget name="second" size="1.000000 1.000000" />
+    <ImageTarget name="BarkDecidious0194_7_S" size="1.000000 1.000000" />
+    <ImageTarget name="WoodRough0106_2_S" size="1.000000 0.500000" />
+  </Tracking>
+</QCARConfig>
